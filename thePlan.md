@@ -10,9 +10,4 @@ In order to budget, you actually have to create a budget. That is to say, a deta
 
 ## Architecting the solution
 
-A solution to the problem of a budget that has both a budget and a 
-ledger function is __Dave Ramsey's__ *Every Dollar* mobile app. Every 
-Dollar is intended as a tool to assist people in completing Dave's 
-financial fitness plan with a singular purpose in fulfilling this. 
-While I largely agree with what Dave teaches in regards to financial 
-fitness, his app falls short in areas  
+A solution to the problem of a budget that has both a budget and a ledger function is __Dave Ramsey's__ *Every Dollar* mobile app. EveryDollar is intended as a tool to assist people in completing Dave's financial fitness plan with a singular purpose in fulfilling this. While I largely agree with what Dave teaches in regards to financial fitness, his app falls short in areas
